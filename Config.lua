@@ -1,15 +1,15 @@
 local addonName, addon = ...
-local GrimoireFilter = addon
+local HideKnownVendorItems = addon
 
-function GrimoireFilter:GetOptionsTable()
+function HideKnownVendorItems:GetOptionsTable()
     return {
-        name = "GrimoireFilter",
-        handler = GrimoireFilter,
+        name = "HideKnownVendorItems",
+        handler = HideKnownVendorItems,
         type = "group",
         args = {
             headerDesc = {
                 type = "description",
-                name = "GrimoireFilter v" .. self.version .. " - Hide known items from vendors\n\nMacro: /run GrimoireFilter:Toggle()",
+                name = "HideKnownVendorItems v" .. self.version .. " - Hide known items from vendors\n\nMacro: /run HideKnownVendorItems:Toggle()",
                 fontSize = "medium",
                 order = 1,
             },

@@ -1,5 +1,5 @@
 ## Interface: 20505
-## Title: |cFF00D1FFMM|r GrimoireFilter
+## Title: |cFF00D1FFMM|r HideKnownVendorItems
 ## Notes: Hides already-known items (grimoires, recipes, patterns) from vendor windows
 ## Author: Michael Malura
 ## Version: 1.0.0
@@ -7,7 +7,7 @@
 ## IconTexture: Interface\Icons\INV_Misc_Book_06
 ## Category-enUS: Bags & Inventory
 ## Category-deDE: Taschen & Inventar
-## SavedVariables: GrimoireFilterDB
+## SavedVariables: HideKnownVendorItemsDB
 ## OptionalDeps: Ace3
 
 embeds.xml

@@ -1,4 +1,4 @@
-package-as: GrimoireFilter
+package-as: HideKnownVendorItems
 
 ignore:
   - README.md

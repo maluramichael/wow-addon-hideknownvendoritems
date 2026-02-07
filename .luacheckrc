@@ -1,4 +1,4 @@
--- Luacheck configuration for GrimoireFilter
+-- Luacheck configuration for HideKnownVendorItems
 -- WoW Classic addon
 
 std = "lua51"
@@ -23,7 +23,7 @@ ignore = {
 -- Addon-specific globals
 globals = {
     "_G",
-    "GrimoireFilter",
+    "HideKnownVendorItems",
 }
 
 -- WoW API globals
