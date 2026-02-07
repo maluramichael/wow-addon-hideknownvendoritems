@@ -1,0 +1,16 @@
+## Interface: 20505
+## Title: |cFF00D1FFMM|r GrimoireFilter
+## Notes: Hides already-known items (grimoires, recipes, patterns) from vendor windows
+## Author: Michael Malura
+## Version: 1.0.0
+## X-Curse-Project-ID: 0
+## IconTexture: Interface\Icons\INV_Misc_Book_06
+## Category-enUS: Bags & Inventory
+## Category-deDE: Taschen & Inventar
+## SavedVariables: GrimoireFilterDB
+## OptionalDeps: Ace3
+
+embeds.xml
+
+Core.lua
+Config.lua
