@@ -1,5 +1,10 @@
 # wow-addon-hideknownvendoritems
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=wow-addon-hideknownvendoritems)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=wow-addon-hideknownvendoritems)
+<!-- links:end -->
+
 Ein WoW-Addon, das mir beim Händler alle Gegenstände ausblendet, die mein Charakter schon kennt: Grimoires, Rezepte, Muster. Ich wollte nicht mehr jedes Mal die halbe Seite durchgehen, um die zwei neuen Bücher zu finden.
 
 ## Wie es funktioniert
