@@ -46,8 +46,14 @@ read_globals = {
     "CreateFrame", "UIParent",
 
     -- Merchant API
-    "GetMerchantNumItems", "MerchantFrame_Update",
+    "GetMerchantNumItems", "GetMerchantItemLink", "MerchantFrame_Update",
     "MerchantFrame", "MERCHANT_ITEMS_PER_PAGE",
+
+    -- Item API
+    "GetItemSpell",
+
+    -- Pet API
+    "HasPetSpells", "GetSpellBookItemName", "BOOKTYPE_PET",
 
     -- Misc API
     "GetTime", "GetAddOnMetadata",

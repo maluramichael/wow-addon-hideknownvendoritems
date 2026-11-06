@@ -1,8 +1,8 @@
-## Interface: 20505
+## Interface: 20505, 16001
 ## Title: |cFF00D1FFMM|r HideKnownVendorItems
 ## Notes: Hides already-known items (grimoires, recipes, patterns) from vendor windows
 ## Author: Michael Malura
-## Version: 1.0.0
+## Version: 1.1.0
 ## X-Curse-Project-ID: 0
 ## IconTexture: Interface\Icons\INV_Misc_Book_06
 ## Category-enUS: Bags & Inventory
